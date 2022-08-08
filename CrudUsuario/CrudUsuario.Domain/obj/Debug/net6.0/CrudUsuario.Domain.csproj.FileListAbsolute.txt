@@ -1,0 +1,12 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\bin\Debug\net6.0\CrudUsuario.Domain.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\refint\CrudUsuario.Domain.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\CrudUsuario.Domain.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Domain\obj\Debug\net6.0\ref\CrudUsuario.Domain.dll

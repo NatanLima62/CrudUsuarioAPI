@@ -1,0 +1,17 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Infra.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Infra.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Infra.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Domain.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Domain.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.csproj.CopyComplete
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\refint\CrudUsuario.Infra.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\ref\CrudUsuario.Infra.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\bin\Debug\net6.0\CrudUsuario.Infra.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\CrudUsuario\CrudUsuario\CrudUsuario.Infra\obj\Debug\net6.0\CrudUsuario.Infra.genruntimeconfig.cache
