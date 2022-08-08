@@ -43,4 +43,17 @@ public class UserRepository : BaseRepository<User>, IUserRepository
 
         return user.FirstOrDefault();
     }
+
+    public virtual async Task<User> Exists(string email, string rg, string cfp)
+    {
+        var user = await _context.Set<User>()
+            .Where(user => user.Email == email)
+            .Where(user => user.RG == rg)
+            .Where(user => user.CPF == cfp)
+            .AsNoTracking()
+            .ToListAsync();
+
+        return user.FirstOrDefault();
+
+    }
 }

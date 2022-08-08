@@ -7,7 +7,7 @@ public class UserValidator : AbstractValidator<User>
 {
     public UserValidator()
     {
-        RuleFor(user => user.Id)
+        RuleFor(user => user)
             .NotEmpty()
             .WithMessage("O usuário não pode ser vazio")
 

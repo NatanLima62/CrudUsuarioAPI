@@ -49,6 +49,10 @@ namespace CrudUsuario.Infra.Migrations
                         .IsRequired()
                         .HasColumnType("VARCHAR(180)");
 
+                    b.Property<DateTime?>("UpdateAt")
+                        .ValueGeneratedOnUpdate()
+                        .HasColumnType("DATETIME");
+
                     b.HasKey("Id");
 
                     b.ToTable("users", (string)null);

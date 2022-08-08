@@ -53,7 +53,7 @@ public class BaseRepository<T> : IBaseRepository<T> where T : Base
 
         if (obj != null)
         {
-            _context.Remove(id);
+            _context.Remove(obj);
             await _context.SaveChangesAsync();
         }
 

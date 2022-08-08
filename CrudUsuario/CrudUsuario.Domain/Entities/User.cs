@@ -1,4 +1,6 @@
-﻿namespace CrudUsuario.Domain.Entities;
+﻿using CrudUsuario.Domain.Validators;
+
+namespace CrudUsuario.Domain.Entities;
 
 public class User : Base
 {
@@ -10,6 +12,19 @@ public class User : Base
 
     public override bool Validate()
     {
-        throw new NotImplementedException();
+        var validator = new UserValidator();
+        var validation = validator.Validate(this);
+
+        if (!validation.IsValid)
+        {
+            foreach (var error in validation.Errors)
+            {
+                _errors.Add(error.ErrorMessage);
+            }
+
+            throw new Exception("Alguns campos estão inválidos por favor corrija-os");
+        }
+
+        return true;
     }
 }

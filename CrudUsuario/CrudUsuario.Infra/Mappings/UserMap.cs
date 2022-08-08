@@ -36,5 +36,10 @@ public class UserMap : IEntityTypeConfiguration<User>
             .IsRequired(false)
             .ValueGeneratedOnAdd()
             .HasColumnType("DATETIME");
+        
+        builder.Property(user => user.UpdateAt)
+            .IsRequired(false)
+            .ValueGeneratedOnUpdate()
+            .HasColumnType("DATETIME");
     }
 }
